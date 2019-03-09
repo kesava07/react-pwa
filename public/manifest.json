@@ -1,5 +1,5 @@
 {
-  "short_name": "React App",
+  "short_name": "Creative",
   "name": "Creative Labs",
   "icons": [
     {
@@ -7,10 +7,10 @@
       "sizes": "64x64 32x32 24x24 16x16",
       "type": "image/x-icon"
     },
-    {
+    {  
       "src": "icon.png",
-      "sizes": "512x512",
-      "type": "image/png"
+      "sizes": "512x512",  
+      "type": "image/png"  
     }
   ],
   "start_url": "./index.html",

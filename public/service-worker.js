@@ -1,5 +1,3 @@
-// service-worker.js
-
 // Flag for enabling cache in production
 var doCache = true;
 
