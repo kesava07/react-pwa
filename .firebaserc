@@ -1,5 +1,6 @@
 {
   "projects": {
-    "creative": "creative-labs-80639"
+    "creative": "creative-labs-80639",
+    "default": "creative-labs-80639"
   }
 }
